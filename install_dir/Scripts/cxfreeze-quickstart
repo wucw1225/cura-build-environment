@@ -1,0 +1,5 @@
+#!E:\NewCura2\cura-build-environment\install_dir\bin\python.exe
+from cx_Freeze.setupwriter import main
+
+main()
+
